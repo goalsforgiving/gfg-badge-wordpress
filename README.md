@@ -9,4 +9,4 @@ You can fully customise it by selecting:
 * Side - Left or Right
 * Position - Fixed or Absolute ( fixed = stuck to your browser window, Absolute = stuck on the page )
 
-This widget is an extensionof [Goals for Giving](http://www.goalsforgiving.com)
+This widget is an extension of [Goals for Giving](http://www.goalsforgiving.com)
