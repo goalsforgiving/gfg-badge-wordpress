@@ -1,7 +1,9 @@
-Goals for Giving Badge - WordPress Widget
+Goals for Giving Badge - WordPress Plugin
 =========================================
 
-A simple widget that allows you to show your support for charity by adding a smart little badge or ribbon to your blog.
+A simple plugin that allows you to show your support for charity by adding a smart little badge or ribbon to your blog.
+
+Currently in beta, we have [Islington Giving](http://www.islingtongiving.org.uk/), [Hibbs Lupus Trust](http://www.hibbslupustrust.org) and [Oxfam](http://www.oxfam.org.uk/) to try the plugin out.
 
 You can fully customise it by selecting:
 
@@ -9,4 +11,6 @@ You can fully customise it by selecting:
 * Side - Left or Right
 * Position - Fixed or Absolute ( fixed = stuck to your browser window, Absolute = stuck on the page )
 
-This widget is an extension of [Goals for Giving](http://www.goalsforgiving.com)
+Please let us know your feedback at <mailto:info@goalsforgiving.com>
+
+This plugin is an extension of [Goals for Giving Charity Fundraising platform](http://www.goalsforgiving.com)
