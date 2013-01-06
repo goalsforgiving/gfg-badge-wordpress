@@ -3,7 +3,7 @@ Goals for Giving Badge - WordPress Plugin
 
 A simple plugin that allows you to show your support for charity by adding a smart little badge or ribbon to your blog.
 
-Currently in beta, we have [Islington Giving](http://www.islingtongiving.org.uk/), [Hibbs Lupus Trust](http://www.hibbslupustrust.org) and [Oxfam](http://www.oxfam.org.uk/) to try the plugin out.
+Currently in beta, you can select [Islington Giving](http://www.islingtongiving.org.uk/), [Hibbs Lupus Trust](http://www.hibbslupustrust.org) and [Oxfam](http://www.oxfam.org.uk/) to try the plugin out.
 
 You can fully customise it by selecting:
 
