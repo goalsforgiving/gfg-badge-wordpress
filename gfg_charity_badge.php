@@ -18,7 +18,11 @@ if ( !class_exists("gfg_badge") ) {
       add_action( 'wp_footer', array(get_class(), 'badge_display' ) );
     }
     public function install() {
-      // install/set stuff
+      add_option('gfg_badge_charity', 'demo');
+      add_option('gfg_badge_type', 'badge');
+      add_option('gfg_badge_side', 'right');
+      add_option('gfg_badge_position', 'fixed');
+      add_option('gfg_badge_show', 'show');
     }
 
     public function deactivate() {
