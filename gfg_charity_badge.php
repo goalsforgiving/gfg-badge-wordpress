@@ -4,7 +4,7 @@
   Plugin URI: http://charities.goalsforgiving.com
   Description: Show your support for a charity with this badge and ribbon
   Author: Charley Radcliffe
-  Version: 0.1
+  Version: 0.2
   Author URI: http://www.goalsforgiving.com
   */
 
