@@ -18,10 +18,10 @@
   } else {
     //Normal page display
     $gfgcharity = get_option('gfg_badge_charity');
-    $gfgtype = '' ? 'badge' : get_option('gfg_badge_type');
-    $gfgside = '' ? 'right' : get_option('gfg_badge_side');
-    $gfgposition = '' ? 'fixed' : get_option('gfg_badge_position');
-    $gfgshow = '' ? 'show' : get_option('gfg_badge_show');
+    $gfgtype = get_option('gfg_badge_type');
+    $gfgside = get_option('gfg_badge_side');
+    $gfgposition = get_option('gfg_badge_position');
+    $gfgshow = get_option('gfg_badge_show');
   }
 
   $url = "http://donations.goalsforgiving.com/api/charities.json";

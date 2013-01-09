@@ -4,7 +4,7 @@
   Plugin URI: http://charities.goalsforgiving.com
   Description: Show your support for a charity with this badge and ribbon
   Author: Charley Radcliffe
-  Version: 0.1
+  Version: 0.2
   Author URI: http://www.goalsforgiving.com
   */
 
@@ -26,11 +26,11 @@ if ( !class_exists("gfg_badge") ) {
     }
 
     public function deactivate() {
-      // remove stuff
+      // Sit pretty and bide your time, they'll be back. I hope...
     }
 
     public function uninstall() {
-
+      // Rattle out the pram moment but nought you can do apart from build a better plugin...
     }
 
     public function badge_admin() {
